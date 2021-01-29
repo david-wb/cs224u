@@ -69,3 +69,5 @@ rel_ext_data*
 
 .idea/
 data.tgz
+.DS_Store
+*.zip
